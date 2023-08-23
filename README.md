@@ -1,5 +1,7 @@
 # google_places_picker
 
+This is a fork from original package, with some updates, like sdk version and gradle version.
+
 Google Places Autocomplete for Flutter
 
 ## Getting Started
