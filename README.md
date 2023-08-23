@@ -2,7 +2,7 @@
 
 This is a fork from original package, with some updates, like sdk version and gradle version.
 
-##instalation
+## Instalation
 add this in your pubspec.yaml
 google_places_picker: 
     git:
