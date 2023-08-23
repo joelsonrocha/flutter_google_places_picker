@@ -2,6 +2,13 @@
 
 This is a fork from original package, with some updates, like sdk version and gradle version.
 
+##instalation
+add this in your pubspec.yaml
+google_places_picker: 
+    git:
+      url: https://github.com/joelsonrocha/flutter_google_places_picker.git
+
+
 Google Places Autocomplete for Flutter
 
 ## Getting Started
